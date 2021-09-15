@@ -1,0 +1,178 @@
+body{
+
+	background-color: #394867;
+	margin: 0px;
+	text-align: center;	
+
+}
+
+.top{
+	background-color: #EEEEEE; 	
+	padding-left: 100px;
+    	height: 150px;
+    	border: 2px;
+	
+}
+
+.head{
+
+	position: absolute;
+	top:10px;
+
+}
+
+.a{
+	
+	background-color: #EEEEEE;
+    	position: absolute;
+    	right: 333px;
+    	top: 15px;
+	font-size: 20px;
+    	font-family: ui-serif;	
+
+}
+.b{
+	
+	background-color: #EEEEEE;
+    	position: absolute;
+    	right: 198px;
+    	top: 15px;
+	font-size: 20px;
+    	font-family: ui-serif;
+	
+
+}
+.c{
+	
+	background-color: #EEEEEE;
+    	position: absolute;
+    	right: 50px;
+    	top: 15px;
+	font-size: 20px;
+    	font-family: ui-serif;	
+
+}
+
+.mid{
+
+	background-color: #787A91;
+	height: 400px;
+	position: relative;
+
+}
+.content{
+
+	top: 150px;
+    	background-color: #787A91;
+    	position: absolute;
+    	height: 100px;
+	padding-left: 100px;
+
+}
+.txt{
+
+	color: #F0E5CF;
+
+}
+
+.para{
+
+	color : #F0E5CF;
+
+}
+.name{
+
+	color: #141E61;
+
+}
+
+.col{
+
+	color: #0F044C;
+
+}
+
+.about{
+
+	background-color: #EEEEEE;
+	text-align: left;
+    	font-size: x-large;
+    	position: absolute;
+    	top: 10px;
+}
+img{
+	width: 200px;
+	height:200px;
+	margin: 0px 0px 0px 0px;
+	padding-left: 0px;
+    	padding-right: 0px;
+    	padding-bottom: 0px;
+    	padding-top: 20px;
+}
+
+.me{
+
+	background-color: #9BA4B4;
+	position: absolute;
+	width: 300px;
+	left: 470px;
+	top: 20px;
+
+}
+.nik{	
+
+	background-color:  #9BA4B4;
+	position: relative;
+	height: 300px;
+
+}
+
+.description{
+
+	color: #394867;
+	font-size: large;
+	text-align: start;
+
+}
+.con{
+
+	background-color: #9BA4B4;
+	position: absolute;
+	left: 200px;
+}
+.gap{
+
+	    padding: 2px;
+
+}
+a{
+
+	text-decoration: none;
+
+}
+	
+
+.ianim{
+
+	position: absolute;
+    	right: 200px;
+	top: 75px;
+	background-color: #787A91;
+
+}
+
+.contact{
+
+	padding: 20px;
+    	position: absolute;
+    	left: 100px;
+	text-align: left;
+	font-size: large;
+
+}
+
+.hil{
+
+	height:400px;
+
+}
